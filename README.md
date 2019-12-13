@@ -3,6 +3,8 @@ RF spectrum related research work published in top tier computer science confere
 
 ## Spectrum Sensing
 * [A Framework for Analyzing Spectrum Characteristics in Large Spatio-temporal Scales](http://eprints.networks.imdea.org/2054/1/comA49-zengA.pdf) [MobiCom'19]
+* [Spectrum Patrolling with Crowdsourced Spectrum Sensors](http://www.wings.cs.stonybrook.edu/pdfs/infocom2018.pdf) [INFOCOM'18]
+* [SpecSense: Crowdsensing for Efficient Querying of Spectrum Occupancy](https://www3.cs.stonybrook.edu/~aychakrabort/files/specsense_infocom17.pdf) [INFOCOM'17]
 * [Empirical Validation of Commodity Spectrum Monitoring](https://people.cs.uchicago.edu/~ravenben/publications/pdf/spectrum-sensys16.pdf) [SenSys'16]
 
 ## Whitespace
